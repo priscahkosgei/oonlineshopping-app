@@ -1,0 +1,13 @@
+body{
+    font-family: "Arial Rounded MT Bold";
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+form{
+    background-color: aqua;
+    padding: 20px 30px;
+    width: 500px;
+    border-radius: 8px;
+
+}

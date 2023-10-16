@@ -1,0 +1,19 @@
+p{
+    font-size: 20px;
+    font-weight: bold;
+    color: greenyellow;
+}
+.links{
+    display: flex;
+}
+.links a{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    margin: 0 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.links a:hover{
+    background-color: red;
+}
